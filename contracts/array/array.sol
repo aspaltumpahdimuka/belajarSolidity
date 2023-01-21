@@ -27,7 +27,7 @@ contract Array {
 
     function pop() public {
         // Menghapus elemen terakhir dari array
-        // Ini akan mengurangi panjang larik sebesar 1
+        // Ini akan mengurangi panjang array sebesar 1
         arr.pop();
     }
 
