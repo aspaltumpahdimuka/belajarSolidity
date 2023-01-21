@@ -1,10 +1,24 @@
 {
 	"compiler": {
-		"version": "0.8.7+commit.e28d00a7"
+		"version": "0.8.17+commit.8df45f5f"
 	},
 	"language": "Solidity",
 	"output": {
-		"abi": [],
+		"abi": [
+			{
+				"inputs": [],
+				"name": "salam",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
 		"devdoc": {
 			"kind": "dev",
 			"methods": {},
@@ -33,11 +47,11 @@
 	},
 	"sources": {
 		"contracts/salam.sol": {
-			"keccak256": "0x7eb467e1b8dbbf0aba56f8270ec2f2e0d02881e7adbfcb914cc26ddfbc3f2182",
+			"keccak256": "0x17924dc478c6d2c21b11b3ca87051dc8330c9d9c1f35c5cb227435e87a931b69",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://8f6cadfe7222b0b090681dd2e9a81c4c7b809d1b97155ed67c7d09206251d70b",
-				"dweb:/ipfs/QmYMbVitkj8qACBbKQ5cWqBbsynKjG5TKcNukYk5chyUBn"
+				"bzz-raw://5ef877b325f9922060cf4150455692764b2e2a37883f0de51c53fc47404bfa8f",
+				"dweb:/ipfs/Qmcwri7axb9S1s6uuiAgXCtekyffSTtzdHpB4ioevRaBa4"
 			]
 		}
 	},
