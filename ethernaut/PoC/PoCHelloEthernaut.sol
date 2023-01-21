@@ -9,6 +9,7 @@ contract PoCHelloEthernaut {
     
     // membuat fungsi hack
     function hack() external {
+        // memanggil fungsi target dengan nilai dari variabel password sebagai parameter
         target.authenticate(target.password());
     }
 }
