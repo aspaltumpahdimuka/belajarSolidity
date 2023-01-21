@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: MIT
 
-pragma solidity ^0.8;
+pragma solidity ^0.8; // ini berarti versi yang digunakan minimal versi 0.8
 // setiap file harus dimulai dengan pernyataan lisensi dan versi solidity untuk dicompile
 contract Salam {
     string salam = "Met pagi, makan bang";
