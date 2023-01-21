@@ -20,7 +20,7 @@ contract IfElse {
 
         // cara singkat untuk menulis pernyataan if / else
         // operator "?" disebut operator ternery
-        return _x < 10 ? 1 : 2;
+        return _x < 10 ? 6 : 9;
     }
 }
 

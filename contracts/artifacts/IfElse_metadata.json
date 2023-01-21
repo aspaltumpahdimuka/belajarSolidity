@@ -72,11 +72,11 @@
 	},
 	"sources": {
 		"contracts/kondisi.sol": {
-			"keccak256": "0x4dbdd4280e86ab487d86d8fef11704d3ed180f5d0f02c7cc0e7104511773535f",
+			"keccak256": "0x055918bde03cc956cfa8f157eb62119fc4bc6a04a64c5536cb3cf656194dd0ce",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://974eb31c1a04bd1cf6802b62b8e8159ef86ed6841de8b933ddeabf527a2f0b0a",
-				"dweb:/ipfs/QmQiyoi4eksdoyLWM9Gf3enwQbuHLtaCNrbYzmSA5uL8TW"
+				"bzz-raw://01f9911ba2607d937f8413e27183f7993ebfd838e3881730e135d849264937ea",
+				"dweb:/ipfs/QmdKTBzWKZ1ytsXvYSpCburAcv4fUGHDQ5cq1DovMhFAAD"
 			]
 		}
 	},
