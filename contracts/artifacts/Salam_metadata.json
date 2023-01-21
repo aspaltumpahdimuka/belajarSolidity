@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/salam.sol": "Salam"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/salam.sol": {
+			"keccak256": "0x7eb467e1b8dbbf0aba56f8270ec2f2e0d02881e7adbfcb914cc26ddfbc3f2182",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://8f6cadfe7222b0b090681dd2e9a81c4c7b809d1b97155ed67c7d09206251d70b",
+				"dweb:/ipfs/QmYMbVitkj8qACBbKQ5cWqBbsynKjG5TKcNukYk5chyUBn"
+			]
+		}
+	},
+	"version": 1
+}
