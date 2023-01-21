@@ -1,0 +1,61 @@
+{
+	"compiler": {
+		"version": "0.8.17+commit.8df45f5f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "hack",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"ethernaut/PoC/PoCHelloEthernaut.sol": "PoCHelloEthernaut"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"ethernaut/PoC/PoCHelloEthernaut.sol": {
+			"keccak256": "0xd911b372b265e9ac30a4adb1a01374c7eb5a9682c472f7b1faa623b50d38375b",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://520684186fa0bb04b3dd72236f7993083f0f518381dcee9187c0e624f1669cde",
+				"dweb:/ipfs/QmTEHG8gC7y4CdN24QE15YxqWZzFjxy1RB2WBoKBpVEQB6"
+			]
+		},
+		"ethernaut/level/helloEthernaut.sol": {
+			"keccak256": "0xee94bcb0af5834bbbf5ff64e04757d8be404472efcc7455e36c1de2904cf785d",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://ab4a7a6a9d0f97370c9efc79fdb8a0f53634daf3617bf585954a1533471aff4d",
+				"dweb:/ipfs/QmWnf9iDe3QjpaHACucrV6jcS4J4nQezM1uRQyHAUEaHKG"
+			]
+		}
+	},
+	"version": 1
+}
