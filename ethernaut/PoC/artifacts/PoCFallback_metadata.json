@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.17+commit.8df45f5f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "_target",
+						"type": "address"
+					}
+				],
+				"name": "Icontribute",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"ethernaut/PoC/PoCFallback.sol": "PoCFallback"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"ethernaut/PoC/PoCFallback.sol": {
+			"keccak256": "0xed0fcc2eaf8e24dbe89b9d96af449e8316115eb57254dcad88e185fb8eb46d9b",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://7a3067da4e213f27eff07af198090a164fa505971fa5609d00d7661bdf0b48e2",
+				"dweb:/ipfs/QmXuoAqV5picBu9FQi8cDbcaMCYkyFwFjjsgQtu397a6vG"
+			]
+		}
+	},
+	"version": 1
+}
